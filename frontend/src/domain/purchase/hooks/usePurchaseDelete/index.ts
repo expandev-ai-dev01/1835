@@ -1,0 +1,1 @@
+export { usePurchaseDelete } from './main';
